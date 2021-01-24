@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Lei Liu"
   avatar           : "profile.png"
-  bio              : "PhD Candiate <br> Marie Curie Fellow"
+  bio              : "PhD Candiate <br> Marie Curie Fellow<br>Politecnico di Milano<br>Italy"
 #   location         : "Location"
-  employer         : "Politecnico di Milano"
+  employer         : 
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TPbBCUYAAAAJ&hl=en"
   email            : "lei.liu@polimi.it"
