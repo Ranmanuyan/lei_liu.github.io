@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lei Liu"
   avatar           : "profile.png"
-  bio              : "PhD Candiate \n Marie Curie Fellow"
+  bio              : "PhD Candiate <br> Marie Curie Fellow"
 #   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
