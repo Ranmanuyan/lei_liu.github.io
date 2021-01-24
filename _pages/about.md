@@ -10,4 +10,6 @@ redirect_from:
 
 I am currently a first-year PhD student and a [Marie Curie Fellow](http://www.digiman4-0.mek.dtu.dk/about-us) at [Politecnico di Milano](https://www.polimi.it/). I am very fortunate to be advised by Prof. [Marcello Urgo](https://www.mecc.polimi.it/us/research/faculty/faculty/dr-marcello-urgo/). I expect to graduate in Spring 2023.
 
+I received my bachelor degree in Information Management from NorthEast Forestry University in 2013, and master degree in Industrial Engineering from Tsinghua University in 2017.
+
 My research focuses on data-driven decision-making and stochastic programming with risk measures. My primary focus is on problems of machine scheduling and project scheduling.
