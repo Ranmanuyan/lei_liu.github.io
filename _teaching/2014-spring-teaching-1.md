@@ -1,7 +1,7 @@
 ---
 title: "SMART MANUFACTURING LAB"
 
-collection: TA
+collection: teaching
 type: "Master course"
 venue: "Politecnico di Milano, Mechanical EngineeringDepartment"
 date: 2021/03-2021/06
