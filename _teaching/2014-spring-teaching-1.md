@@ -1,6 +1,5 @@
 ---
 title: "SMART MANUFACTURING LAB"
-
 collection: teaching
 type: "Master course"
 venue: "Politecnico di Milano, Mechanical EngineeringDepartment"
