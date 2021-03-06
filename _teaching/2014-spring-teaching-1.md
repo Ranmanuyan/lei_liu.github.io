@@ -3,7 +3,6 @@ title: "Teaching experience 1"
 
 collection: teaching
 type: "Master course"
-permalink: /
 venue: "University 1, Department"
 date: 2021-03-01
 location: "Milano, Italy"
