@@ -2,7 +2,7 @@
 title: "SMART MANUFACTURING LAB"
 collection: teaching
 type: "TA, Master Course"
-permalink: 
+permalink: /teaching/2021-spring-TA/
 venue: "Politecnico di Milano, Mechinical Engineering Department"
 date: 2021-03-01
 location: "Milano, Italy"
