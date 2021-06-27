@@ -14,6 +14,6 @@ I received my master degree in Industrial Engineering from Tsinghua University i
 
 My research focuses on data-driven decision-making and stochastic programming with risk measures. My primary focus is on problems of machine scheduling and project scheduling.
 
----
-News
----
+
+## News
+
