@@ -16,6 +16,5 @@ My research focuses on data-driven decision-making and stochastic programming wi
 
 
 ## News
-* I will present our latest work "A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk" in [EURO 2021](https://www.euro-online.org/conf/euro31/treat_abstract?paperid=3372) in 13 July, 2021.
 * Our work "Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure" was accepted by [XV CONVEGNO AITEM](https://www.aitem.org/convegno2021/), I will present this work in 17 Jan 2022.
 
