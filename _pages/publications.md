@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: Research
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
+
 ## Journal Publications
 
 
