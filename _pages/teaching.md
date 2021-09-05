@@ -16,3 +16,5 @@ As a teaching assitant, I mentored one group, with the aim at exploiting the too
 * Data collection and processing: basic data collection and processing skills in real industrial contexts will be provided and used to design and/or validate the solutions provided.
 * Modelling skills, especially the mixed interger programming(MIP) formulation skills and mathematical solver useage.
 * Data analysis and visualization skills are delivered.
+
+Supervised Students: Alessandro Talacchini, Chiara Tommaseo, Riccardo Bassani
