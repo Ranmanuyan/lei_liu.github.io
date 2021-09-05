@@ -21,5 +21,5 @@ author_profile: true
 
 
 ## Students
-* Guido Ricci Curbastro, master student, Politecnico di Milano
-* Matteo Salvatori, master student, Politecnico di Milano
+* Guido Ricci Curbastro, master, Politecnico di Milano (co-supervise)
+* Matteo Salvatori, master, Politecnico di Milano (co-supervise)
