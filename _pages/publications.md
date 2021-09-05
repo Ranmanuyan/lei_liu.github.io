@@ -18,3 +18,8 @@ author_profile: true
 
 * Risk-based scheduling in the manufacturing and re-manufacturing of turbine blades, _PhD project & H2020/Marie Skłodowska-Curie Actions_. Collaborator: Ansaldo Energia S.p.A.
 * Application of Lean methodology to optimize Dial Screen Printing Scheduling, _Smart Manufacturing Laboratory course project_. Mentor. Collaborator: Magneti Marelli S.p.A.
+
+
+## Students
+* Guido Ricci Curbastro, master student, Politecnico di Milano
+* Matteo Salvatori, master student, Politecnico di Milano
