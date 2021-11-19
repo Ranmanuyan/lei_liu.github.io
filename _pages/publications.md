@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Journal Publications
-* **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk</q>, submitted.
+* **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem with phase-type distributed processing times to minimize the value-at-risk</q>, submitted.
 
 ## Conferences
 
