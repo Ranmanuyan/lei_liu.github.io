@@ -25,6 +25,6 @@ author_profile: true
 
 
 ## Students
-<!-- * Nicola Figundio, bachelor, Università degli Studi di Genova, 2021-2022, (co-supervise), "Evaluation of Robust Scheduling/Programming approaches in Highly Random Production Areas" -->
-* Guido Ricci Curbastro, master, Politecnico di Milano,2020-2021, (co-supervise), "Robust scheduling in the re-manufacturing of turbine blades: a CVaR-based approach"
-* Matteo Salvatori, master, Politecnico di Milano,2020-2021, (co-supervise), "Robust scheduling in the re-manufacturing of turbine blades: a CVaR-based approach"
+* Nicola Figundio, co-supervise, bachelor, Università degli Studi di Genova, 2021-2022, "Evaluation of Robust Scheduling/Programming approaches in Highly Random Production Areas"
+* Guido Ricci Curbastro, co-supervise, master, Politecnico di Milano,2020-2021, "Robust scheduling in the re-manufacturing of turbine blades: a CVaR-based approach"
+* Matteo Salvatori, co-supervise, master, Politecnico di Milano,2020-2021, "Robust scheduling in the re-manufacturing of turbine blades: a CVaR-based approach"
