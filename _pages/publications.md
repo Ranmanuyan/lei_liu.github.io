@@ -20,8 +20,8 @@ author_profile: true
 
 ## Research Projects
 
-* Risk-based scheduling in the manufacturing and re-manufacturing of turbine blades, _PhD project & H2020/Marie Skłodowska-Curie Actions_. Collaborator: Ansaldo Energia S.p.A.
-* Application of Lean methodology to optimize Dial Screen Printing Scheduling, _Smart Manufacturing Laboratory course project_. Mentor. Collaborator: Magneti Marelli S.p.A.
+* Risk-based scheduling in the manufacturing and re-manufacturing of turbine blades, _**PhD project & H2020/Marie Skłodowska-Curie Actions**_. Collaborator: Ansaldo Energia S.p.A.
+* Application of Lean methodology to optimize Dial Screen Printing Scheduling, _Smart Manufacturing Laboratory course project_. **Mentor**. Collaborator: Magneti Marelli S.p.A.
 
 
 ## Students
