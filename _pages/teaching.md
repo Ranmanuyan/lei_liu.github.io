@@ -18,3 +18,7 @@ As a teaching assitant, I mentored one group, with the aim at exploiting the too
 * Data analysis and visualization skills are delivered.
 
 Supervised Students: Alessandro Talacchini, Chiara Tommaseo, Riccardo Bassani
+
+Project: Application of Lean methodology to optimize Dial Screen Printing Scheduling
+
+Collaborator: Magneti Marelli S.p.A.
