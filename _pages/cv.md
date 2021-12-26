@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Lei Liu](/lei_liu.github.io/files/CV.pdf)
+[CV](/lei_liu.github.io/files/CV.pdf)
