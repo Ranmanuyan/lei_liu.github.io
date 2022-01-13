@@ -16,7 +16,7 @@ author_profile: true
 * **Lei Liu**, Marcello Urgo, <q>Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure</q>.
   - XV CONVEGNO AITEM, Milan, Italy, 01/2022 [\[pdf\]](/lei_liu.github.io/files/XV_AITEM_LeiLIU.pdf)  
   - Book chapter, Selected Topics in Manufacturing 2022 [[link]](https://doi.org/10.1007/978-3-030-82627-7_3)
-  - AITeM(Italian Association of Manufacturing Engineering) Young Researcher Award, 2021
+  - Finalist, AITeM(Italian Association of Manufacturing Engineering) Young Researcher Award, 2021
 
 ## Research Projects
 
