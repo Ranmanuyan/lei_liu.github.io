@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Projects and Students"
+  - title: "Projects & Students"
     url: /portfolio/
  
   - title: "Teaching"
