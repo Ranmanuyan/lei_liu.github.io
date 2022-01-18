@@ -1,17 +1,17 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Publications"
     url: /publications/
-
+ 
+  - title: "Projects & Students"
+   url: /ProjectsandStudents/
+ 
   - title: "Teaching"
     url: /teaching/   
     
   - title: "Awards"
     url: /Awards/   
 
-#    - title: "Industry Experience"
-#    url: /Industry Experience/
- 
   - title: "Miscellaneous"
     url: /Miscellaneous/
     
