@@ -2,9 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
- 
-  - title: "ProjectsandStudents"
-   url: /ProjectsandStudents/
+
+  - title: "Portfolio"
+    url: /portfolio/
  
   - title: "Teaching"
     url: /teaching/   
@@ -14,10 +14,7 @@ main:
 
   - title: "Miscellaneous"
     url: /Miscellaneous/
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
+          
 #   - title: "Blog Posts"
 #     url: /year-archive/
     
