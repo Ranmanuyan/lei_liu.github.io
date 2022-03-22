@@ -22,8 +22,8 @@ author_profile: true
   - 18th International Workshop on Project Management and Scheduling, Virtual Conference, 04/2022
 
 * **Lei Liu**, Marcello Urgo, <q>Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure</q>.
-  - XV CONVEGNO AITEM, Milan, Italy, 01/2022 [\[pdf\]](/lei_liu.github.io/blob/master/files/XV_AITEM_LeiLIU.pdf)
+  - XV CONVEGNO AITEM, Milan, Italy, 01/2022 [\[pdf\]](/files/XV_AITEM_LeiLIU.pdf)
   - Finalist, AITeM(Italian Association of Manufacturing Technology) Young Researcher Award, 2021
 
 * **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk</q>.
-  - [31st European Conference on Operational Research](https://euro2021athens.com/), Athens, Greece, 07/2021. [\[slides\]](/lei_liu.github.io/blob/master/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)
+  - [31st European Conference on Operational Research](https://euro2021athens.com/), Athens, Greece, 07/2021. [\[slides\]](/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)
