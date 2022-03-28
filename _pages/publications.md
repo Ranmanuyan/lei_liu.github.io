@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal Publications
 
-* **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem with phase-type distributed processing times to minimize the value-at-risk</q>, submitted.
+* **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem with phase-type distributed processing times to minimize the value-at-risk</q>, under review at *Annals of Operations Research*.
 
 * **Lei Liu**, Marcello Urgo, 2022. <q>A robust scheduling framework for re-manufacturing activities of turbine blades</q>, Applied Sciences, 12(6):3034. [[link]](https://www.mdpi.com/2076-3417/12/6/3034)
 
@@ -15,7 +15,7 @@ author_profile: true
 
 ## Book Chapter
 
-* **Lei Liu**, Marcello Urgo, 2022. <q>Scheduling Remanufacturing Activities for the Repair of Turbine Blades: An Approximate Branch and Bound Approach to Minimize a Risk Measure</q>. In: Carrino L., Tolio T. (eds) Selected Topics in Manufacturing. Lecture Notes in Mechanical Engineering. Springer, Cham. [[link]](https://doi.org/10.1007/978-3-030-82627-7_3)
+* **Lei Liu**, Marcello Urgo, 2022. <q>Scheduling Remanufacturing Activities for the Repair of Turbine Blades: An Approximate Branch and Bound Approach to Minimize a Risk Measure</q>. In: Carrino L., Tolio T. (eds) Selected Topics in Manufacturing. Lecture Notes in Mechanical Engineering. Springer. [[link]](https://doi.org/10.1007/978-3-030-82627-7_3)
 
 ## Conferences
 * **Lei Liu**, Marcello Urgo, <q>A branch and bound approach for stochastic 2-machine flow shop scheduling with rework</q>.
