@@ -32,5 +32,5 @@ TA, Management Engineering Master Course, Politecnico di Milano, 2021-2022
 
 * Collaborator: Magneti Marelli S.p.A.
 
-* Supervised Students: 
+* Supervised Students: Davide Toresini, Martina Marini, Federico Marino
 
