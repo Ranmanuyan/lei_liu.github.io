@@ -19,7 +19,7 @@ author_profile: true
 
 ## Conferences
 * **Lei Liu**, Marcello Urgo, <q>A branch and bound approach for stochastic 2-machine flow shop scheduling with rework</q>.
-  - 18th International Workshop on Project Management and Scheduling, Virtual Conference, 04/2022 [\[pdf\]](/files/PMS2022_paper.pdf)[\[slides\]](/files/PMS2022_slides.pdf)
+  - 18th International Workshop on Project Management and Scheduling, Virtual, 04/2022 [\[pdf\]](/files/PMS2022_paper.pdf)[\[slides\]](/files/PMS2022_slides.pdf)
 
 * **Lei Liu**, Marcello Urgo, <q>Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure</q>.
   - XV CONVEGNO AITEM, Milan, Italy, 01/2022 [\[pdf\]](/files/XV_AITEM_LeiLIU.pdf)
