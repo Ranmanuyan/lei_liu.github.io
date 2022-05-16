@@ -10,7 +10,7 @@ author_profile: true
 * **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem with phase-type distributed processing times to minimize the value-at-risk</q>, under review at *Annals of Operations Research*.
 
 * **Lei Liu**, Marcello Urgo, 2022. <q>A robust scheduling framework for re-manufacturing activities of turbine blades</q>, Applied Sciences, 12(6):3034. [[link]](https://www.mdpi.com/2076-3417/12/6/3034)
-
+  - Invited Submission, Special Issue "Advances in Sustainable and Digitalized Factories: Manufacturing, Measuring Technologies and Systems"
 
 
 ## Book Chapter
