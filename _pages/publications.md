@@ -13,7 +13,7 @@ author_profile: true
   - Invited Submission, Special Issue "Advances in Sustainable and Digitalized Factories: Manufacturing, Measuring Technologies and Systems"
 
 
-## Book Chapter
+## Book Chapters
 
 * **Lei Liu**, Marcello Urgo, 2022. <q>Scheduling Remanufacturing Activities for the Repair of Turbine Blades: An Approximate Branch and Bound Approach to Minimize a Risk Measure</q>. In: Carrino L., Tolio T. (eds) Selected Topics in Manufacturing. Lecture Notes in Mechanical Engineering. Springer. [[link]](https://doi.org/10.1007/978-3-030-82627-7_3)
 
