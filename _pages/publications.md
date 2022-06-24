@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ## Journal Publications
+* **Lei Liu**, Walter Terkaj, Marcello Urgo, <q>A Review and Classiﬁcation of Release and Dispatching Control Policies in Manufacturing Systems </q>, working paper.
+
+* **Lei Liu**, Marcello Urgo, <q>A branch and bound approach for stochastic 2-machine flow shop scheduling with rework </q>, working paper.
 
 * **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem with phase-type distributed processing times to minimize the value-at-risk</q>, under review at *Annals of Operations Research*.
 
