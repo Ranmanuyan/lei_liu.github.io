@@ -11,6 +11,8 @@ author_profile: true
 
 * **Lei Liu**, Marcello Urgo, <q>A branch and bound approach for stochastic 2-machine flow shop scheduling with rework </q>.
 
+* **Lei Liu**, <q>Criticality in stochastic 2-machine flow shop network</q>.
+
 
 ## Journal Publications
 
