@@ -38,4 +38,4 @@ author_profile: true
   - Finalist, Young Researcher Award
 
 * **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk</q>.
-  - [31st European Conference on Operational Research](https://euro2021athens.com/), Athens, Greece, 07/2021. [\[slides\]](/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)
+  - 31st European Conference on Operational Research, Athens, Greece, 07/2021. [\[slides\]](/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)
