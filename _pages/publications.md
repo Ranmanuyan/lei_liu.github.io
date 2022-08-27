@@ -34,7 +34,7 @@ author_profile: true
   - Finalist, Best Student Award
 
 * **Lei Liu**, Marcello Urgo, <q>Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure</q>.
-  - XV AITeM Conference (Italian Association of Manufacturing Technology) Milano, Italy, 01/2022 [\[pdf\]](/files/XV_AITEM_LeiLIU.pdf)
+  - XV AITeM Conference (Italian Association of Manufacturing Technology), Milano, Italy, 01/2022 [\[pdf\]](/files/XV_AITEM_LeiLIU.pdf)
   - Finalist, Young Researcher Award
 
 * **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk</q>.
