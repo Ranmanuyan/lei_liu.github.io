@@ -13,7 +13,7 @@ author_profile: true
 
 * **Lei Liu**, <q>Criticality in stochastic 2-machine flow shop network</q>.
 
-* **Lei Liu**, Marcello Urgo, <q>The stochastic 2-machine flow shop scheduling with general distriburion processing times </q>.
+* **Lei Liu**, Marcello Urgo, <q>The stochastic 2-machine flow shop scheduling with general distribution processing times </q>.
 
 
 ## Journal Publications
