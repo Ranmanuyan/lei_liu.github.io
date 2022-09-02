@@ -9,7 +9,7 @@ author_profile: true
 
 * **Lei Liu**, Walter Terkaj, Marcello Urgo, <q>A Review and Classiﬁcation of Release and Dispatching Control Policies in Manufacturing Systems </q>.
 
-* **Lei Liu**, Marcello Urgo, <q>Stochastic 2-machine proportionate flow shop scheduling with rework </q>.
+* **Lei Liu**, Marcello Urgo, <q>The stochastic 2-machine flow shop scheduling with rework </q>.
 
 * **Lei Liu**, Marcello Urgo, <q>The stochastic 2-machine flow shop scheduling for re-manufacturing activities of turbine blades </q>.
 
