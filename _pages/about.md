@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**I will be on the job market of 2023 and currently available for interviews. I am looking for a faculty position in Industrial Engineering, Mechanical Engineering, Management Engineering and related departments. Here is the full [CV](/files/CV.pdf)**
+**I am currently on the job market of 2023 and available for interviews, looking for a faculty position in Industrial Engineering, Mechanical Engineering, Management Engineering and related departments. Here is the full [CV](/files/CV.pdf)**
 
 -----------------------------------------------------------------------------------------------------------------------------
 
