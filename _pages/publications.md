@@ -7,16 +7,17 @@ author_profile: true
 
 ## Working Paper
 
+* **Lei Liu**, Marcello Urgo, <q>Two-machine re-entrant stochastic  ow shop scheduling problem to minimize the value-at-risk: branch-and-bound and iterated greedy heuristic techniques based on Markovian Activity Network</q>.
+
+* **Lei Liu**, Marcello Urgo, <q>Stochastic scheduling for the re-manufacturing activities of turbine blades </q>.
+
 * **Lei Liu**, Walter Terkaj, Marcello Urgo, <q>A Review and Classiﬁcation of Release and Dispatching Control Policies in Manufacturing Systems </q>.
 
-* **Lei Liu**, Marcello Urgo, <q>The stochastic 2-machine flow shop scheduling with rework </q>.
-
-* **Lei Liu**, Marcello Urgo, <q>The stochastic 2-machine flow shop scheduling for re-manufacturing activities of turbine blades </q>.
 
 
 ## Journal Publications
 
-* **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem with phase-type distributed processing times to minimize the value-at-risk</q>, under review at *Annals of Operations Research*.
+* **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem with phase-type distributed processing times to minimize the value-at-risk</q>, under review at *International Journal of Production Research*.
 
 * **Lei Liu**, Marcello Urgo, 2022. <q>A robust scheduling framework for re-manufacturing activities of turbine blades</q>, Applied Sciences, 12(6):3034. [[link]](https://www.mdpi.com/2076-3417/12/6/3034)
   - Invited Submission, Special Issue "Advances in Sustainable and Digitalized Factories: Manufacturing, Measuring Technologies and Systems"
