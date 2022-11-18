@@ -7,7 +7,6 @@ author_profile: true
 
 ## Working Paper
 
-* **Lei Liu**, Marcello Urgo, <q>Two-machine re-entrant stochastic  ow shop scheduling problem to minimize the value-at-risk: branch-and-bound and iterated greedy heuristic techniques based on Markovian Activity Network</q>.
 
 * **Lei Liu**, Marcello Urgo, <q>Stochastic scheduling for the re-manufacturing activities of turbine blades </q>.
 
@@ -16,6 +15,8 @@ author_profile: true
 
 
 ## Journal Publications
+
+* **Lei Liu**, Marcello Urgo, <q>Robust scheduling in a two-machine re-entrant flow shop to minimise the value-at-risk of the makespan: a branch-and-bound and heuristic algorithms based on Markovian Activity Networks and phase-type distribution</q>, under review at *Annals of Operations Research*.
 
 * **Lei Liu**, Marcello Urgo, <q>A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem with phase-type distributed processing times to minimize the value-at-risk</q>, under review at *International Journal of Production Research*.
 
