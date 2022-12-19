@@ -8,7 +8,7 @@ author_profile: true
 ## Working Paper
 
 
-* **Lei Liu**, Marcello Urgo, <q>Stochastic scheduling for the re-manufacturing activities of turbine blades </q>.
+* **Lei Liu**, Marcello Urgo, <q>Robust scheduling for the remanufacturing activities of turbine blades </q>.
 
 * **Lei Liu**, Walter Terkaj, Marcello Urgo, <q>A review and classiﬁcation of release and dispatching control policies in manufacturing systems </q>.
 
@@ -18,10 +18,11 @@ author_profile: true
 
 * **Lei Liu**, Marcello Urgo, <q>Robust scheduling in a two-machine re-entrant flow shop to minimise the value-at-risk of the makespan: a branch-and-bound and heuristic algorithms based on Markovian activity networks and phase-type distribution</q>, under review at *Annals of Operations Research*.
 
-* **Lei Liu**, Marcello Urgo, <q>Risk-based robust production scheduling: a branch-and-bound approach for the stochastic two-machine  ow shop scheduling problem to minimise the value-at-risk</q>, under review at *International Journal of Production Research*.
+* **Lei Liu**, Marcello Urgo, <q>Risk-based robust production scheduling: a branch-and-bound approach for the stochastic two-machine flow shop scheduling problem to minimise the value-at-risk</q>, major revision at *International Journal of Production Research*.
 
 * **Lei Liu**, Marcello Urgo, 2022. <q>A robust scheduling framework for re-manufacturing activities of turbine blades</q>, Applied Sciences, 12(6):3034. [[link]](https://www.mdpi.com/2076-3417/12/6/3034)
-  - Invited Submission, Special Issue "Advances in Sustainable and Digitalized Factories: Manufacturing, Measuring Technologies and Systems"
+  - Invited Submission
+  - Special Issue "Advances in Sustainable and Digitalized Factories: Manufacturing, Measuring Technologies and Systems"
 
 
 ## Book Chapters
