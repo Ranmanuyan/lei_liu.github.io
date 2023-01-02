@@ -7,7 +7,7 @@ author_profile: true
 
 ## Working Paper
 
-* **Lei Liu**, Marcello Urgo, <q>Robust scheduling for the remanufacturing activities of turbine blades </q>.
+* **Lei Liu**, Marcello Urgo, <q>Robust scheduling of remanufacturing processes for the repair of turbine blades </q>.
 
 * **Lei Liu**, Walter Terkaj, Marcello Urgo, <q>A review and classiﬁcation of release and dispatching control policies in manufacturing systems </q>.
 
