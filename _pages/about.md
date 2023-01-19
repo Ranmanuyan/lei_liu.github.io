@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**I am currently on the job market of 2023 and available for interviews, looking for a faculty position in Industrial Engineering, Mechanical Engineering, Management Engineering and related departments. Here is the full [CV](/files/CV.pdf)**
 
------------------------------------------------------------------------------------------------------------------------------
 
 I am currently an early stage researcher holding European [Marie Curie Fellowship](https://www.digiman4-0.mek.dtu.dk/About-us/Who-are-we/ESRs) and a third-year PhD candidate at Mechanical Engineering department of [Politecnico di Milano](https://www.polimi.it/en). I am fortunate to be advised by Prof. [Marcello Urgo](http://www.marcellourgo.com/), and expect to graduate in Spring 2023.
 
