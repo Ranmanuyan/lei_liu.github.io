@@ -13,7 +13,7 @@ author_profile: true
 
 * **Lei Liu**, Marcello Urgo, <q>Robust scheduling of a remanufacturing process for the repair of turbine blades</q>,under review at *CIRP Annals*.
 
-* **Lei Liu**, Marcello Urgo, <q>Robust scheduling in a two-machine re-entrant flow shop to minimise the value-at-risk of the makespan: a branch-and-bound and heuristic algorithms based on Markovian activity networks and phase-type distribution</q>, under review at *Annals of Operations Research*.
+* **Lei Liu**, Marcello Urgo, <q>Robust scheduling in a two-machine re-entrant flow shop to minimise the value-at-risk of the makespan: a branch-and-bound and heuristic algorithms based on Markovian activity networks and phase-type distribution</q>, major revision at *Annals of Operations Research*.
 
 * **Lei Liu**, Marcello Urgo, <q>Risk-based robust production scheduling: a branch-and-bound approach for the stochastic two-machine flow shop scheduling problem to minimise the value-at-risk</q>, major revision at *International Journal of Production Research*.
 
