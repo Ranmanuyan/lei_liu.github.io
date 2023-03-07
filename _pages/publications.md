@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journal Publications
 
-* **Lei Liu**, Marcello Urgo, <q>Robust scheduling of a remanufacturing process for the repair of turbine blades</q>,under review at *CIRP Annals*.
+* **Lei Liu**, Marcello Urgo, <q>Robust scheduling of a remanufacturing process for the repair of turbine blades</q>, major revision at *CIRP Annals*.
 
 * **Lei Liu**, Marcello Urgo, <q>Robust scheduling in a two-machine re-entrant flow shop to minimise the value-at-risk of the makespan: a branch-and-bound and heuristic algorithms based on Markovian activity networks and phase-type distribution</q>, major revision at *Annals of Operations Research*.
 
