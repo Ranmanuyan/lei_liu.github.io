@@ -11,9 +11,9 @@ author_profile: true
 As a teaching assitant, I mentored one group, with the aim at exploiting the tools and methods learned to analyze, formalize and provide a solution to the typical machine scheduling problems in the real manufacturing plants. The projects are collaborated with industries. 
 
 The following activities are carried out:
-* Machine scheduling knowledge: seminars/lectures to deepen all the technological and management aspects connected to the problem under study, i.e. parallel machine scheduling, resource constrained project scheduling.
+* Machine scheduling knowledge: seminars/lectures to deepen all the technological and management aspects connected to the problem under study, e.g., parallel machine scheduling, resource constrained project scheduling.
 * Data collection and processing: basic data collection and processing skills in real industrial contexts will be provided and used to design and/or validate the solutions provided.
-* Modelling skills, especially the mixed interger programming(MIP) formulation skills and mathematical solver useage.
+* Modelling skills, e.g., mixed interger programming(MIP) formulation skills and mathematical solver useage, simulation modelling skills.
 * Data analysis and visualization skills are delivered.
 
 ***
@@ -34,3 +34,12 @@ TA, Management Engineering Master Course, Politecnico di Milano, 2021-2022
 
 * Supervised Students: Davide Toresini, Martina Marini, Federico Marino
 
+
+***
+TA, Management Engineering Master Course, Politecnico di Milano, 2022-2023
+
+* Project: 
+
+* Collaborator: Parker Hannifin Italy
+
+* Supervised Students: Asem Meselhy Melegy Shabayek, Emilio Basenghi, Luca Scotti
