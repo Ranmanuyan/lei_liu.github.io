@@ -16,8 +16,8 @@ author_profile: true
 
 ## Students
 
-* Federico Marino, co-supervise, master, Politecnico di Milano, 2022-2023.
-* Nicola Figundio, co-supervise, bachelor, Università degli Studi di Genova, 2021-2022, "Evaluation of Robust Scheduling/Programming approaches in Highly Random Production Areas"
+* Federico Marino, co-supervise, master, Politecnico di Milano, 2022-2023, "Assessing the VAR of the completion time for a complex industrial project of activities using Markov chain modelling and phase-type distributions"
+* Nicola Figundio, co-supervise, bachelor, Università degli Studi di Genova, 2021-2022, "Evaluation of robust scheduling/programming approaches in highly random production areas"
 * Guido Ricci Curbastro, co-supervise, master, Politecnico di Milano,2020-2021, "Robust scheduling in the re-manufacturing of turbine blades: a CVaR-based approach"
 * Matteo Salvatori, co-supervise, master, Politecnico di Milano,2020-2021, "Robust scheduling in the re-manufacturing of turbine blades: a CVaR-based approach"
 
