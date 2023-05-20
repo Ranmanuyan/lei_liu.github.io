@@ -17,7 +17,7 @@ author_profile: true
 
 * **Lei Liu**, Marcello Urgo, 2022. <q>A robust scheduling framework for re-manufacturing activities of turbine blades</q>, Applied Sciences, 12(6):3034. [[link]](https://www.mdpi.com/2076-3417/12/6/3034)
 
-* **Lei Liu**, Marcello Urgo, 2022. <q>Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure</q>. In: Carrino L., Tolio T. (eds) Selected Topics in Manufacturing. Lecture Notes in Mechanical Engineering. Springer. [[link]](https://doi.org/10.1007/978-3-030-82627-7_3)
+* **Lei Liu**, Marcello Urgo, 2022. <q>Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure</q>. Selected Topics in Manufacturing. Lecture Notes in Mechanical Engineering. Springer. [[link]](https://doi.org/10.1007/978-3-030-82627-7_3)
 
 ## Conferences
 * **Lei Liu**, Marcello Urgo, <q>A branch and bound approach for stochastic 2-machine flow shop scheduling with rework</q>.
