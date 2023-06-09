@@ -28,5 +28,5 @@ author_profile: true
   - XV AITeM Conference (Italian Association of Manufacturing Technology), Milano, Italy, 01/2022 [\[pdf\]](/files/XV_AITEM_LeiLIU.pdf)
   - Finalist, Young Researcher Award
 
-1\. A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk</q>.
+1\. A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk.
   - 31st European Conference on Operational Research, Athens, Greece, 07/2021. [\[slides\]](/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)
