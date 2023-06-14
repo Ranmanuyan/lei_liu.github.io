@@ -13,11 +13,11 @@ author_profile: true
 
 4\. **Lei Liu**, Marcello Urgo. 2023. Robust scheduling of a remanufacturing process for the repair of turbine blades, *CIRP Annals-Manufacturing Technology*. [[link]](https://doi.org/10.1016/j.cirp.2023.03.033)
 
-3\. **Lei Liu**, Marcello Urgo. 2023. Risk-based robust production scheduling: a branch-and-bound approach for the stochastic two-machine flow shop scheduling problem to minimise the value-at-risk, *International Journal of Production Research*. [[link]](https://doi.org/10.1080/00207543.2023.2217279)
+3\. **Lei Liu**, Marcello Urgo. 2023. Risk-based robust production scheduling: a branch-and-bound approach for the stochastic two-machine flow shop scheduling problem to minimise the value-at-risk, *International Journal of Production Research*. [[link]](https://doi.org/10.1080/00207543.2023.2217279)[\[pdf\]](/files/IJPR2023manuscript.pdf)
 
 2\. **Lei Liu**, Marcello Urgo. 2022. A robust scheduling framework for re-manufacturing activities of turbine blades, *Applied Sciences*, 12(6):3034. [[link]](https://www.mdpi.com/2076-3417/12/6/3034)
 
-1\. **Lei Liu**, Marcello Urgo. 2022. Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure. *Selected Topics in Manufacturing. Lecture Notes in Mechanical Engineering. Springer*. [[link]](https://doi.org/10.1007/978-3-030-82627-7_3)
+1\. **Lei Liu**, Marcello Urgo. 2022. Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure. *Selected Topics in Manufacturing. Lecture Notes in Mechanical Engineering. Springer*. [[link]](https://doi.org/10.1007/978-3-030-82627-7_3)[\[pdf\]](/files/XV_AITEM_LeiLIU.pdf)
 
 ## Conferences
 3\. A branch and bound approach for stochastic 2-machine flow shop scheduling with rework.
