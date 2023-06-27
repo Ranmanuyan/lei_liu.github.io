@@ -10,8 +10,6 @@ author_profile: true
 ## Research Projects
 
 * Risk-based scheduling in the manufacturing and re-manufacturing of turbine blades, H2020/Marie Skłodowska-Curie Actions, **PhD project**. Collaborator: Ansaldo Energia S.p.A. 2020-2023.
-* Optimization of SMT pick-and-place equipment for PCB assembly, Smart Manufacturing Laboratory Course Project, **Mentor**. Collaborator: Magneti Marelli S.p.A. 2021-2022.
-* Application of Lean methodology to optimize Dial Screen Printing Scheduling, Smart Manufacturing Laboratory Course Project, **Mentor**. Collaborator: Magneti Marelli S.p.A. 2020-2021.
 
 
 ## Students
