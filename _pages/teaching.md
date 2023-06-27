@@ -17,13 +17,14 @@ The following activities are carried out:
 * Data analysis and visualization skills are delivered.
 
 ***
-TA, Management Engineering Master Course, Politecnico di Milano, 2020-2021
+TA, Management Engineering Master Course, Politecnico di Milano, 2022-2023
 
-* Project: Application of Lean methodology to optimize Dial Screen Printing Scheduling
+* Project: Optimision the material flows within the GVM line and from the GVM line to the warehouse
+  
+* Collaborator: Parker Hannifin Italy
 
-* Collaborator: Magneti Marelli S.p.A.
+* Supervised Students: Asem Meselhy Melegy Shabayek, Emilio Basenghi, Luca Scotti
 
-* Supervised Students: Alessandro Talacchini, Chiara Tommaseo, Riccardo Bassani
 
 ***
 TA, Management Engineering Master Course, Politecnico di Milano, 2021-2022
@@ -34,12 +35,12 @@ TA, Management Engineering Master Course, Politecnico di Milano, 2021-2022
 
 * Supervised Students: Davide Toresini, Martina Marini, Federico Marino
 
-
 ***
-TA, Management Engineering Master Course, Politecnico di Milano, 2022-2023
+TA, Management Engineering Master Course, Politecnico di Milano, 2020-2021
 
-* Project: 
+* Project: Application of Lean methodology to optimize Dial Screen Printing Scheduling
 
-* Collaborator: Parker Hannifin Italy
+* Collaborator: Magneti Marelli S.p.A.
 
-* Supervised Students: Asem Meselhy Melegy Shabayek, Emilio Basenghi, Luca Scotti
+* Supervised Students: Alessandro Talacchini, Chiara Tommaseo, Riccardo Bassani
+
