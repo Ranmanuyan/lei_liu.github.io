@@ -9,7 +9,7 @@ author_profile: true
 
 6\. **Lei Liu**, Walter Terkaj, Marcello Urgo. A review and classiﬁcation of release and dispatching control policies in manufacturing systems, working paper.
 
-5\. **Lei Liu**, Marcello Urgo. Robust scheduling in a two-machine re-entrant flow shop to minimise the value-at-risk of the makespan: a branch-and-bound and heuristic algorithms based on Markovian activity networks and phase-type distribution, major revision at *Annals of Operations Research*.
+5\. **Lei Liu**, Marcello Urgo. Robust scheduling in a two-machine re-entrant flow shop to minimise the value-at-risk of the makespan: a branch-and-bound and heuristic algorithms based on Markovian activity networks and phase-type distribution, minor revision at *Annals of Operations Research*.
 
 4\. **Lei Liu**, Marcello Urgo. 2023. Robust scheduling of a remanufacturing process for the repair of turbine blades, *CIRP Annals-Manufacturing Technology*. [[link]](https://doi.org/10.1016/j.cirp.2023.03.033)
 
