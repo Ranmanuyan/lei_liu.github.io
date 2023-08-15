@@ -11,6 +11,24 @@ redirect_from:
 
 I am currently an Assistant Professor of Operations Management in [Nottingham University Business School China](https://www.nottingham.edu.cn/en/business/home.aspx). 
 
-My research of interest lies on stochastic decision-making with risk measures and Markov network analysis, applications on machine scheduling, project management, and retail marketing problems.
+### Research Interest
 
-I hold a Ph.D. in Mechanical Engineering from [Politecnico di Milano](https://www.polimi.it/en) and have been awarded the [Marie Curie Fellowship](https://www.digiman4-0.mek.dtu.dk/About-us/Who-are-we/ESRs) by the European Union. I received my master degree in Industrial Engineering from Tsinghua University and bachelor degree in Information Management from NorthEast Forestry University.
+***Methodologies***
+
+* Stochastic decision-making with risk measures 
+* Markov network analysis
+* Integer programming and constraint programming
+
+***Applications***
+* Machine scheduling problem
+* Project scheduling problem
+* Retail marketing problem
+
+
+I hold a Ph.D. in Mechanical Engineering from [Politecnico di Milano](https://www.polimi.it/en) and have been awarded the [Marie Curie Fellowship](https://www.digiman4-0.mek.dtu.dk/About-us/Who-are-we/ESRs) by the European Union. I received my master degree in Industrial Engineering from Tsinghua University.
+<!--- and bachelor degree in Information Management from NorthEast Forestry University.  --->
+
+
+***To my fellow researchers***: If you are interested in collaborating on research projects, please don't hesitate to connect with me.
+
+***To prospective students***: I am actively collaborating with enthusiastic students, send me an email with your CV and I would like to talk about the opportunities!
