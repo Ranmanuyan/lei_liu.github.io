@@ -1,4 +1,4 @@
----
+![image](https://github.com/Ranmanuyan/lei_liu.github.io/assets/61202919/677ffac1-ccd7-4fb1-baf7-eacef73a0a31)---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -19,9 +19,11 @@ I hold a Ph.D. in Mechanical Engineering from [Politecnico di Milano](https://ww
 * Stochastic decision-making with risk measures 
 * Markov network analysis
 * Integer programming and constraint programming
+* Machine learning and artificial intelligence
+
 
 ***Applications***
-* Machine scheduling and project scheduling problems
+* Machine scheduling and project management 
 * Retail marketing
 
 
