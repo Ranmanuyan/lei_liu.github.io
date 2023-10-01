@@ -1,4 +1,4 @@
-![image](https://github.com/Ranmanuyan/lei_liu.github.io/assets/61202919/677ffac1-ccd7-4fb1-baf7-eacef73a0a31)---
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
