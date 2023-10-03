@@ -12,7 +12,7 @@ author_profile: true
 
 As a teaching assitant, I mentored one group, with the aim at exploiting the tools and methods learned to analyze, formalize and provide a solution to the typical machine scheduling problems in the real manufacturing plants. The projects are collaborated with industries. 
 
-1. 2022-2023， Optimision the material flows within the GVM line and from the GVM line to the warehouse，Parker Hannifin Italy
+1. 2022-2023，Optimizaion the material flows within the GVM line and from the GVM line to the warehouse，Parker Hannifin Italy
 2. 2021-2022, Optimization of SMT pick-and-place equipment for PCB assembly, Magneti Marelli S.p.A.
 3. 2020-2021, Application of Lean methodology to optimize Dial Screen Printing Scheduling, Magneti Marelli S.p.A.
 
