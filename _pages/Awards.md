@@ -14,6 +14,6 @@ author_profile: true
 
 ## Membership
 
-* Student Member, EURO Working Group on Project Management and Scheduling (PMS)
-* Student Member,  Italian Association for Manufacturing Technology (AITEM)
+* Member, EURO Working Group on Project Management and Scheduling (PMS)
+<!--* Student Member,  Italian Association for Manufacturing Technology (AITEM) -->
  
