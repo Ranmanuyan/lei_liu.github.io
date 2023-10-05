@@ -6,8 +6,9 @@ author_profile: true
 ---
 ## BUSI2124 Introduction to Management Science for Business Decisions
 * Undergraduate, Nottingham University Business School China
+*  Nottingham University Business School China
 
-## [SMART MANUFACTURING LAB](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=743745&polij_device_category=DESKTOP&__pj0=0&__pj1=ac9f5524d19961b37acea6e07b53901a)
+## [SMART MANUFACTURING LAB-Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=743745&polij_device_category=DESKTOP&__pj0=0&__pj1=ac9f5524d19961b37acea6e07b53901a)
 
 
 As a teaching assitant, I mentored one group, with the aim at exploiting the tools and methods learned to analyze, formalize and provide a solution to the typical machine scheduling problems in the real manufacturing plants. The projects are collaborated with industries. 
