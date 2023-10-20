@@ -6,7 +6,6 @@ author_profile: true
 ---
 ## BUSI2124 Introduction to Management Science for Business Decisions
 * Undergraduate, Nottingham University Business School China
-*  Nottingham University Business School China
 
 ## [SMART MANUFACTURING LAB-Politecnico di Milano](https://www11.ceda.polimi.it/schedaincarico/schedaincarico/controller/scheda_pubblica/SchedaPublic.do?&evn_default=evento&c_classe=743745&polij_device_category=DESKTOP&__pj0=0&__pj1=ac9f5524d19961b37acea6e07b53901a)
 
