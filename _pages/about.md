@@ -34,5 +34,5 @@ I hold a Ph.D. in Mechanical Engineering from [Politecnico di Milano](https://ww
 
 ***To prospective students***: I am actively collaborating with enthusiastic students, send me an email with your CV and I would like to talk about the opportunities!
 
-I also actively provide assitance to students participating in mathematics/data/analytics related competitions, including but not limited to: [ICM(interdisciplinary contest in modeling)](https://www.comap.com/contests/mcm-icm), 
+I also actively provide assistance to students participating in mathematics/data/analytics related competitions, including but not limited to: [ICM(interdisciplinary contest in modeling)](https://www.comap.com/contests/mcm-icm), 
 [Kaggle](https://www.kaggle.com/), [Aliyun](https://tianchi.aliyun.com/competition/activeList), [Codalab](https://codalab.lisn.upsaclay.fr/competitions/), [ITS](http://uoptimax.com.cn/competition/ITS), if you are considering entering a competition and need guidance, please do not hesitate to contact me.
