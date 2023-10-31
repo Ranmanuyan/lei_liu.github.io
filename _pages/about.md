@@ -23,9 +23,10 @@ I hold a Ph.D. in Mechanical Engineering from [Politecnico di Milano](https://ww
 
 
 ***Applications***
-* Machine scheduling
-* Project management
-* Revenue management
+* Machine scheduling and project management
+* Healthcare analytics (appointment scheduling and queuing)
+* Revenue management (pricing and marketing)
+* Vehicle routing and facility location
 
 
 
