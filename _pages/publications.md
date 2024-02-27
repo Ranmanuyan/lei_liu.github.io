@@ -31,5 +31,25 @@ author_profile: true
 1\. A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk.
   - 31st European Conference on Operational Research, Athens, Greece, 07/2021. [\[slides\]](/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)
 
+---
+layout: archive
+title: " "
+permalink: /Awards/
+author_profile: true
+---
+
+## Awards
+
+* **Marie Curie Fellowship**, European Commission, 2020.02-2023.01
+* Finalist, **Best Student Paper Award**, 18th International Workshop on Project Management and Scheduling, 2022
+* Finalist, **AITeM Young Researcher Award**, Italian Association of Manufacturing Technology, 2021
+
+
+## Membership
+
+* Member, EURO Working Group on Project Management and Scheduling (PMS)
+<!--* Student Member,  Italian Association for Manufacturing Technology (AITEM) -->
+ 
+
 ## PhD Thesis
 * Risk-based scheduling in the remanufacturing of turbine blades [\[slides\]](/files/Defense_presentation_LeiLiu.pdf)
