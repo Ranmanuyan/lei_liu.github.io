@@ -1,6 +1,6 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Research"
     url: /publications/
 
   - title: "Projects & Students"
@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/   
     
-  - title: "Awards & Membership"
+  - title: "OMDA LAB"
     url: /Awards/   
 
-  - title: "Miscellaneous"
-    url: /Miscellaneous/
+  # - title: "Miscellaneous"
+  #   url: /Miscellaneous/
           
 #   - title: "Blog Posts"
 #     url: /year-archive/
