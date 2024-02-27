@@ -31,12 +31,6 @@ author_profile: true
 1\. A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk.
   - 31st European Conference on Operational Research, Athens, Greece, 07/2021. [\[slides\]](/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)
 
----
-layout: archive
-title: " "
-permalink: /Awards/
-author_profile: true
----
 
 ## Awards
 
