@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: " "
-permalink: /Awards/
+permalink: /OMDA/
 author_profile: true
 ---
 
