@@ -7,13 +7,13 @@ author_profile: true
 
 
 
-## Healthcare operations management
+## 1. Healthcare operations management
 
 
-## Revenue management
+## 2. Revenue management
 
 
-## Manufacturing and production management
+## 3. Manufacturing and production management
 
 * Risk-based scheduling in the manufacturing and re-manufacturing of turbine blades, H2020/Marie Skłodowska-Curie Actions, **PhD project**. Collaborator: Ansaldo Energia S.p.A. 2020-2023.
 
