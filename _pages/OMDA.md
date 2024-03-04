@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Management Science and Data Analytics Lab"
+title: "Operations Management and Data Analytics Lab"
 permalink: /OMDA/
 author_profile: true
 ---
