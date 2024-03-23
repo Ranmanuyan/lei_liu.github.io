@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Healthcare Operations Management Excellence (HOME) Lab"
-permalink: /OMDA/
+permalink: /HOME/
 author_profile: true
 ---
 
