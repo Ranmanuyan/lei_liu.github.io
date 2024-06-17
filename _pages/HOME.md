@@ -12,13 +12,14 @@ Welcome to the Healthcare Operations Management Excellence (HOME) lab, a hub of 
 ## People
 
 #### PhD
-2. Yifan Bao, Sept, 2024.
-1. Yiwen Hu, Sept, 2024.
+Yifan Bao, Sept, 2024.
+
+Yiwen Hu, Sept, 2024.
 
 
 #### Undergraduate
 
-1. Linyan Li, Nov, 2023.
+Linyan Li, Nov, 2023.
 
 
 
