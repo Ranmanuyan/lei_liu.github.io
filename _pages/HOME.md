@@ -27,7 +27,7 @@ Linyan Li, Nov, 2023.
 
 ## Projects
 
-#### 3\. _Advanced Intelligent Scheduling in Bio-manufacturing</font>. Collaborated with **Ningbo Health Gene Technologies Co. Ltd**._
+#### 3\. _Advanced Intelligent Scheduling in Bio-manufacturing. Collaborated with **Ningbo Health Gene Technologies Co. Ltd**._
 
 This project aims to develop a production planning solution through data analysis and optimization modeling techniques to improve the accuracy and efficiency of production planning for the testing reagent products.
 
