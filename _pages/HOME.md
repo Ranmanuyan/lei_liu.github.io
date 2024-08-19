@@ -12,7 +12,7 @@ Welcome to the Healthcare Operations Management Excellence (HOME) lab, a hub of 
 ## People
 
 #### PhD
-Kaiwen Wang, Sep 2025.
+
 
 Yifan Bao, Feb 2025.
 
