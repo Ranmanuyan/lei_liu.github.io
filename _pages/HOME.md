@@ -9,7 +9,7 @@ author_profile: true
 Welcome to the Healthcare Operations Management Excellence (HOME) lab, a hub of academic excellence and practical solutions in healthcare operations management. We utilize advanced analytics, such as operations research, big data, machine learning, and simulation, to enhance healthcare operations. Our efforts span various settings, including emergency response, surgical process optimization, and outpatient service efficiency. Dedicated to resolving operational issues within healthcare systems, we aim to increase efficiency and effectiveness. Collaborating with industry experts and organizations, we convert research into impactful strategies, improving care delivery and operational outcomes. 
 
 ## Positions
-Currently, there is no RA position available in my group. If you have a strong background in optimization/operations research/industrial engineering, coupled with good knowledge of mathematics and/or computer science, you are encouraged to apply for the PhD position.
+_Currently, there is no RA position available in my group. If you have a strong background in optimization/operations research/industrial engineering, coupled with good knowledge of mathematics and/or computer science, you are encouraged to apply for the PhD position._
 
 
 ## People
