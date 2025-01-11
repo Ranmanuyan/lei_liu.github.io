@@ -22,10 +22,6 @@ Yifan Bao, Feb 2025.
 Yiwen Hu, Sept 2024.
 
 
-#### Undergraduate
-
-Linyan Li, Nov, 2023.
-
 
 
 ## Projects
