@@ -26,9 +26,7 @@ Yiwen Hu, Sept 2024.
 
 ## Projects
 
-#### 3\. _Advanced Intelligent Scheduling in Bio-manufacturing. Collaborated with **Ningbo Health Gene Technologies Co. Ltd**._
 
-This project aims to develop a production planning solution through data analysis and optimization modeling techniques to improve the accuracy and efficiency of production planning for the testing reagent products.
 
 #### 2\. _Emergency Medical Service location and dispatching. Collaborated with **Ningbo Emergency Center**._
 
