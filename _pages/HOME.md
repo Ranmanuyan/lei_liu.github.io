@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-# Computational Optimization is the point where elegant mathematics and powerful computer science intersect
+# The intersection where elegant mathematics meets powerful computer science
+
 
 ## Stochastic Flow shop scheduling
 A classical puzzle is the flow-shop scheduling problem: given n jobs and m machines, each job must visit the machines in the same fixed order, and the processing time of job j on machine i is a non-negative random variable. The goal is to choose a permutation of the jobs that minimizes some objectives.
