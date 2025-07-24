@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Computational Optimization"
+title: 
 permalink: /HOME/
 author_profile: true
 ---
 
 
-## the intersection where elegant mathematics meets powerful computer science
+## Computational Optimization：the intersection where elegant mathematics meets powerful computer science
 
 
 ## Stochastic Flow shop scheduling
