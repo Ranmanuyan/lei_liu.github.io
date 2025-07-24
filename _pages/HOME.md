@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-# The intersection where elegant mathematics meets powerful computer science
+## the intersection where elegant mathematics meets powerful computer science
 
 
 ## Stochastic Flow shop scheduling
