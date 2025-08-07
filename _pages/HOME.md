@@ -16,8 +16,8 @@ A classical puzzle is the flow-shop scheduling problem: given n jobs and m machi
 
 ## Hybrid approach on Mixed-integer programming and Constraint programming
 - Mixed-integer programming (MIP), rooted in strong linear relaxations and duality theory, has provided exact algorithms for discrete optimisation for over six decades; commercial solvers such as Gurobi and IBM CPLEX now implement these ideas at industrial scale. 
-- Constraint programming (CP), originating in computer science, complements MIP by exploiting combinatorial structure through domain filtering and propagation, often with particular effectiveness in scheduling. For years these two camps worked separately.
-- My fascination was to bolt them together, MIP supplies global dual bounds, while CP supplies domain reduction. Hoping the resulting hybrid algorithms may dominate either technique used in isolation.
+- Constraint programming (CP), originating in computer science, complements MIP by exploiting combinatorial structure through domain filtering and propagation, often with particular effectiveness in scheduling. 
+- For years these two camps worked separately. My current fascination was to bolt them together, MIP supplies global dual bounds, while CP supplies domain reduction. Hoping the resulting hybrid algorithms may dominate either technique used in isolation.
 
 
 ## Applications 
