@@ -45,6 +45,9 @@ Yifan Bao, Feb 2025.
 
 Yiwen Hu, Sept 2024.
 
+#### RA
+Ziyue XU, July 2025.
+
 ## Positions
 _If you have a strong background in optimization/operations research/industrial engineering, coupled with good knowledge of mathematics and/or computer science, you are encouraged to apply for the PhD position._
 
