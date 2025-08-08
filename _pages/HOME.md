@@ -45,7 +45,7 @@ Yifan Bao, Feb 2025.
 
 Yiwen Hu, Sept 2024.
 
-#### RA
+#### UG
 Ziyue XU, July 2025.
 
 ## Positions
