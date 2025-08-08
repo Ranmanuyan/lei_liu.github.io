@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-
+_To a computer, NP-hard problems are the final boss, brute force is the cheat code we'd rather avoid. We focus on developing efficient methods to solve challenging combinatorial problems, particularly in scheduling._
 
 ## Stochastic Flow shop scheduling
 A classical puzzle is the flow-shop scheduling problem: given n jobs and m machines, each job must visit the machines in the same fixed order, and the processing time of job j on machine i is a non-negative random variable. The goal is to choose a permutation of the jobs that minimizes some objectives.
