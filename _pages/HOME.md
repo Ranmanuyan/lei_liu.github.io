@@ -43,7 +43,6 @@ The objective of this project is to enhance the delivery of emergency medical se
 
 Yifan Bao, Feb 2025.
 
-Yiwen Hu, Sept 2024.
 
 #### UG
 Ziyue XU, July 2025.
