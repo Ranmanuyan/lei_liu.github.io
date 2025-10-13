@@ -20,16 +20,16 @@ author_profile: true
 1\. **Lei Liu**, Marcello Urgo. 2022. Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure. *Selected Topics in Manufacturing. Lecture Notes in Mechanical Engineering. Springer*. [[link]](https://doi.org/10.1007/978-3-030-82627-7_3)[\[pdf\]](/files/XV_AITEM_LeiLIU.pdf)
 
 ## Conferences
-3\. A branch and bound approach for stochastic 2-machine flow shop scheduling with rework.
+2\. A branch and bound approach for stochastic 2-machine flow shop scheduling with rework.
   - 18th International Workshop on Project Management and Scheduling, Ghent, Belgium, 04/2022 [\[pdf\]](/files/PMS2022_paper.pdf)[\[slides\]](/files/PMS2022_slides.pdf) [\[video\]](https://www.youtube.com/watch?v=7njudMzoK4c&t=5s)
   - Finalist, Best Student Award
 
-2\. Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure.
+1\. Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure.
   - XV AITeM Conference (Italian Association of Manufacturing Technology), Milano, Italy, 01/2022 [\[pdf\]](/files/XV_AITEM_LeiLIU.pdf)
   - Finalist, Young Researcher Award
 
-1\. A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk.
-  - 31st European Conference on Operational Research, Athens, Greece, 07/2021. [\[slides\]](/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)
+<!--1\. A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk.
+  - 31st European Conference on Operational Research, Athens, Greece, 07/2021. [\[slides\]](/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)-->
 
 
 ## Awards
