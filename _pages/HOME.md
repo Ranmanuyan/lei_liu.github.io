@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Computational Combinatorial Optimization：the intersection where elegant mathematics meets powerful computer science"
-permalink: /CCO/
+permalink: /SSL/
 author_profile: true
 ---
 
