@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Computational Combinatorial Optimization：the intersection where elegant mathematics meets powerful computer science"
+title: "Stochastic Systems & Learning LAB"
 permalink: /SSL/
 author_profile: true
 ---
