@@ -1,85 +1,84 @@
 ---
 layout: archive
-title: "Stochastic Systems & Learning LAB"
+title: "Healthcare Operations Research Excellence LAB"
 permalink: /SSL/
 author_profile: true
 ---
 
 
-Every dynamic system in the world—from manufacturing lines to healthcare operations—is governed by **stochastic, rule-based steps**. We view this complexity not as chaos, but as a discoverable mathematical structure.
+# Healthcare Operations Management Excellence Lab (HOME)
 
-We encode system behavior using **Continuous-Time Markov Chains (CTMC)** and **Phase-Type (PH) Distributions**. 
 
-* **The States:** We model a system as moving through a vast set of possible **states** (e.g., "Job A on Machine 2, Phase 3").
-* **The Matrix:** All transition rates and probabilities are contained within a massive **Transfer Rate Matrix ($\mathbf{Q}$)**. This matrix is our unique tool for unlocking risk.
+## 🏠 About
 
-By using specialized **Matrix Algebra** (like Kronecker operations) and high-performance solvers, we can **analytically compute exact measures of risk**.
+Healthcare systems operate under profound uncertainty—emergency calls arrive without warning, surgery durations defy prediction, and critical resources are perpetually scarce. Our lab study these challenges through the lens of **Operations Management**: how should limited resources be allocated, sequenced, and dispatched in real time to maximize patient survival and system efficiency?
 
-We use the power of **Deep Learning** (Reinforcement Learning/Neuro-Symbolic AI) to efficiently search the combinatorial space, while using the **Matrix** as a perfect, noise-free **Reward Function**. 
-Our goal is to find the **optimal control rules** hidden within the chain, allowing systems to operate with speed and guaranteed precision.
+Our research spans the full continuum of care—from pre-hospital emergency response (ambulance dispatching, AED placement, community CPR networks) to in-hospital operations (surgery scheduling, operating room coordination, patient flow). 
 
 
 
-<!---
-### 🚀 The Learning Breakthrough: Analytical Reward RL
+## 🔬 Research Areas
 
-We use the power of **Deep Learning (RL/Transformer Networks)** to efficiently search the combinatorial space. Crucially, we leverage the **Matrix solution** as a **perfect, zero-variance Reward Function** for our learning agent. This unique **Analytical Reward RL** approach allows us to:
+### 1. 🚑 Emergency Medical Services (EMS) & Pre-Hospital Care Operations
 
-1.  **Avoid Simulation Noise:** Train faster and more robustly than traditional RL.
-2.  **Ensure Guaranteed Precision:** Find **optimal control rules** that operate with mathematical precision, not just approximate averages.
-
---->
-
-## Research Projects
-
-### Stochastic Flow Shop Scheduling: From Theory to AI Control
-
-The Flow Shop Scheduling Problem, where $n$ jobs must visit $m$ machines in a fixed order with random processing times, is a fundamental challenge in optimization.
-
-* **The Core Problem:** For $m \geq 3$ machines and general processing-time distributions, no exact method exists to find the optimal job permutation. While classical rules (Johnson’s, Talwar’s) solved the $m=2$ case for specific distributions, the general case requires advanced stochastic analysis.
-<!---
-* **Our Analytical Foundation:** We embed the flow shop in a **CTMC** whose state records the current **phase** of every active job. This yields a system of linear differential equations, providing the **first exact evaluation method for any fixed permutation** under general **Phase-Type (PH) distributions**.
-* **The AI Leap (New):** We integrate this exact evaluation method into a **PPO/Transformer** framework. The Transformer network learns to construct the optimal sequence, guided by the CTMC's **zero-variance analytical reward**. This **RL-driven Hyper-heuristic** approach is currently deployed to tackle the $m \geq 3$ case, seeking non-linear scheduling rules that minimize system-wide stochastic risk.
-
-
-### High-Impact Application Domains
-
-#### 1. 🏥 Resilient Surgery Scheduling: Optimizing Tail Risk in Operating Rooms
-
-Surgical operations represent high-stakes stochastic processes where unpredictable emergency arrivals, variable durations, and complex resource constraints lead to significant patient risk and cost overruns.
-
-* **The Challenge:** Traditional scheduling is manual or relies on simple averages, leading to inflexibility and failure to control **tail risk** (low-probability, high-impact events like excessive delays).
-* **Our Approach (Focus on Risk):** We model the OR system as a **CTMC** to precisely quantify the probability of critical events (e.g., $P(\text{Surgery delay} > 2 \text{ hours})$). Our **Learning Agent** is trained not to minimize average wait time, but to **minimize tail risk**, dynamically optimizing surgical resource allocation and staff coordination to build a truly resilient surgical schedule.
-
-#### 2. 🚑 Emergency Medical Service (EMS) Network Optimization
-
-This project aims to enhance the delivery of critical EMS services by optimizing resource allocation and dispatching strategies for ambulances and paramedics.
-
-* **The Challenge:** Saving lives depends on minimizing response time variability, which is compounded by highly unpredictable demand patterns and complex travel times.
-* **Our Approach (Focus on Fusion):** We use **advanced predictive models (e.g., Diffusion Models)** to accurately forecast high-demand areas, translating these spatial-temporal patterns into **Phase-Type distributions**. We then employ our **Analytical Reward RL platform** to develop **prescriptive dispatching, scheduling, and routing rules** that are optimized against the **exact expected survival probability**.  This fusion ensures that the right resources are positioned proactively and dispatched optimally, maximizing community survival outcomes based on mathematically guaranteed metrics.
---->
-
-
-<!---
-## Hybrid approach on Mixed-integer programming and Constraint programming
-- Mixed-integer programming (MIP), rooted in strong linear relaxations and duality theory, has provided exact algorithms for discrete optimisation for over six decades; commercial solvers such as Gurobi and IBM CPLEX now implement these ideas at industrial scale. 
-- Constraint programming (CP), originating in computer science, complements MIP by exploiting combinatorial structure through domain filtering and propagation, often with particular effectiveness in scheduling. 
-- For years these two camps worked separately. My current fascination was to bolt them together, MIP supplies global dual bounds, while CP supplies domain reduction. Hoping the resulting hybrid algorithms may dominate either technique used in isolation.
---->
+The first minutes of a medical emergency determine survival. Working closely with EMS agency partners, we study the operational design of pre-hospital care systems:
+- AED Network Design & CPR Responder Allocation: Where should Automated External Defibrillators be placed, and how should community first-responders be mobilized, to maximize out-of-hospital cardiac arrest (OHCA) survival rates?
+- System-Level Resilience: How do EMS networks absorb demand surges (mass-casualty events, pandemics) without catastrophic degradation in service?
 
 
 
-## People
 
-#### PhD
+### 2. 🏥 Surgery Scheduling & Operating Room Management
+
+Operating rooms are the most resource-intensive and disruption-prone units in any hospital. In collaboration with hospital partners, we develop intelligent scheduling systems that adapt to real-time operational events:
+
+- LLM-Driven Event-Based Surgery Scheduling: We are pioneering the use of Large Language Models (LLMs) to interpret and respond to real-time surgical events—emergency add-ons, duration overruns, equipment failures, and staff unavailability—translating complex, evolving constraints into actionable schedule adjustments through natural-language reasoning.
+- Multi-Resource Coordination: Joint scheduling of surgeons, anesthesiologists, nurses, rooms, and post-operative beds under uncertainty.
 
 
-Yifan Bao, Feb 2025.
+
+### 3. 📐 Stochastic Scheduling Theory
+
+Our healthcare applications are built on a deep methodological foundation in stochastic scheduling. The canonical problem we study is the Flow Shop Scheduling Problem under general random processing times:
+
+- For $m \geq 3$ machines and general distributions, no exact method previously existed to evaluate or optimize job permutations. We embed the flow shop in a Continuous-Time Markov Chain (CTMC) whose states track the phase of every active job, yielding the first exact evaluation method for any fixed sequence under Phase-Type (PH) distributions.
+- These exact solutions provide zero-variance analytical rewards for reinforcement learning agents (PPO/Transformer), creating a novel Analytical Reward RL framework that searches the combinatorial space with mathematical precision rather than noisy simulation estimates.
 
 
-#### UG
-Ziyue XU, July 2025.
 
-## Positions
-_If you have a strong background in optimization/operations research/industrial engineering, coupled with good knowledge of mathematics and/or computer science, you are encouraged to apply for the PhD position._
+## 🤝 Partners
+
+We are grateful to collaborate with:
+
+- Ningbo Emergency Center — Pre-hospital emergency response operations
+- Ningbo First Hospital — Surgery scheduling, OR management, patient flow
+- Alibaba -- OM for good society
+- Qiuga Neighborhood -- OM for the Neighborhood goods
+
+
+
+
+## 👥 People
+
+> *"I am fortunate to work with many talented and diligent students, and I am deeply committed to supporting their academic and professional growth."*
+
+
+### Current Students & Researchers
+
+| Name | Role | Research|
+|---|---|---|
+| Xinyi Li | Ph.D. | EMS & AED network design |
+| Yifan Bao| Ph.D. | Operating room scheduling |
+| Qianxun Liu | RA | EMS & AED network design |
+
+
+
+### Alumni & Past Members
+
+| Name | Role | Next Position |
+|---|---|---|
+| Ziyue Xu | RA | University of Pennsylvania |
+|Linyan Li |RA |University of Chicago|
+
+
 
