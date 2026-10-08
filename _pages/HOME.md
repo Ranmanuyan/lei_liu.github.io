@@ -33,7 +33,9 @@ The first minutes of a medical emergency determine survival. Working closely wit
 Operating rooms are the most resource-intensive and disruption-prone units in any hospital. In collaboration with hospital partners, we develop intelligent scheduling systems that adapt to real-time operational events:
 
 - LLM-Driven Event-Based Surgery Scheduling: We are pioneering the use of Large Language Models (LLMs) to interpret and respond to real-time surgical events—emergency add-ons, duration overruns, equipment failures, and staff unavailability—translating complex, evolving constraints into actionable schedule adjustments through natural-language reasoning.
+ > 📄 **Yifan Bao, <u>Lei Liu</u>**, Zhen Tan, Chandra Irawan. (2026). An LLM-based framework for event-driven operating room scheduling. *International Journal of Production Research*. 🔗 [`DOI Link`](https://www.tandfonline.com/doi/abs/10.1080/00207543.2026.2728019) · <!--  [`PDF`](#) -->
 - Multi-Resource Coordination: Joint scheduling of surgeons, anesthesiologists, nurses, rooms, and post-operative beds under uncertainty.
+
 
 
 
