@@ -7,7 +7,7 @@ author_profile: true
 
 ## Publications
 
-7.\ Yifan Bao, **Lei Liu**, Zhen Tan, Chandra Irawan. 2026. An LLM-based framework for event-driven operating room scheduling. *International Journal of Production Research*.[[link]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2026.2728019)
+7\. Yifan Bao, **Lei Liu**, Zhen Tan, Chandra Irawan. 2026. An LLM-based framework for event-driven operating room scheduling. *International Journal of Production Research*.[[link]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2026.2728019)
 
 6\. Marcello Urgo, Walter Terkaj, **Lei Liu**. 2025. Towards digital twin-enhanced control policies: A knowledge-based classification of release and dispatching policies in manufacturing systems. *CIRP Journal of Manufacturing Science and Technology*. [[link]](https://www.sciencedirect.com/science/article/pii/S1755581725001348)
 
