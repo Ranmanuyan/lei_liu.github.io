@@ -80,6 +80,7 @@ We are grateful to collaborate with:
 | Name | Role | Next Position |
 |---|---|---|
 | Ziyue Xu | RA | University of Pennsylvania |
+| Jiaman Wang | RA | University of Cambridge |
 |Linyan Li |RA |University of Chicago|
 
 
