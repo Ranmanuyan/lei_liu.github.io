@@ -7,6 +7,8 @@ author_profile: true
 
 ## Publications
 
+7.\ Yifan Bao, **Lei Liu**, Zhen Tan, Chandra Irawan. 2026. An LLM-based framework for event-driven operating room scheduling. *International Journal of Production Research*.[[link]](https://www.tandfonline.com/doi/abs/10.1080/00207543.2026.2728019)
+
 6\. Marcello Urgo, Walter Terkaj, **Lei Liu**. 2025. Towards digital twin-enhanced control policies: A knowledge-based classification of release and dispatching policies in manufacturing systems. *CIRP Journal of Manufacturing Science and Technology*. [[link]](https://www.sciencedirect.com/science/article/pii/S1755581725001348)
 
 5\. **Lei Liu**, Marcello Urgo. 2023. Robust scheduling in a two-machine re-entrant flow shop to minimise the value-at-risk of the makespan: a branch-and-bound and heuristic algorithms based on Markovian activity networks and phase-type distribution, *Annals of Operations Research*. [[link]](https://link.springer.com/article/10.1007/s10479-023-05647-1)
@@ -19,6 +21,7 @@ author_profile: true
 
 1\. **Lei Liu**, Marcello Urgo. 2022. Scheduling remanufacturing activities for the repair of turbine blades: an approximate branch and bound approach to minimize a risk measure. *Selected Topics in Manufacturing. Lecture Notes in Mechanical Engineering. Springer*. [[link]](https://doi.org/10.1007/978-3-030-82627-7_3)[\[pdf\]](/files/XV_AITEM_LeiLIU.pdf)
 
+<!--
 ## Conferences
 2\. A branch and bound approach for stochastic 2-machine flow shop scheduling with rework.
   - 18th International Workshop on Project Management and Scheduling, Ghent, Belgium, 04/2022 [\[pdf\]](/files/PMS2022_paper.pdf)[\[slides\]](/files/PMS2022_slides.pdf) [\[video\]](https://www.youtube.com/watch?v=7njudMzoK4c&t=5s)
@@ -28,8 +31,8 @@ author_profile: true
   - XV AITeM Conference (Italian Association of Manufacturing Technology), Milano, Italy, 01/2022 [\[pdf\]](/files/XV_AITEM_LeiLIU.pdf)
   - Finalist, Young Researcher Award
 
-<!--1\. A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk.
-  - 31st European Conference on Operational Research, Athens, Greece, 07/2021. [\[slides\]](/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)-->
+1\. A branch-and-bound approach for the two-machine flow shop stochastic scheduling problem to minimize the value-at-risk.
+  - 31st European Conference on Operational Research, Athens, Greece, 07/2021. [\[slides\]](/files/EURO2021Lei.pdf)[\[video\]](https://www.youtube.com/watch?v=JlzkkG4Bkoo)
 
 
 ## Awards
@@ -42,7 +45,7 @@ author_profile: true
 ## Membership
 
 * Member, EURO Working Group on Project Management and Scheduling (PMS)
-<!--* Student Member,  Italian Association for Manufacturing Technology (AITEM) -->
+* Student Member,  Italian Association for Manufacturing Technology (AITEM) -->
  
 
 ## PhD Thesis
