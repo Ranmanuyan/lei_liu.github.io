@@ -1,12 +1,10 @@
 ---
 layout: archive
-title: "Healthcare Operations Research Excellence LAB"
+title: "Healthcare Operations Management Excellence LAB"
 permalink: /SSL/
 author_profile: true
 ---
 
-
-# Healthcare Operations Management Excellence Lab (HOME)
 
 
 ## 🏠 About
